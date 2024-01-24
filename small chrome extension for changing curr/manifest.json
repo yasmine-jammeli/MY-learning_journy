@@ -1,0 +1,10 @@
+{
+    "name":"Extchange Rates" ,
+    "version" :"1.0",
+    "manifest_version":3,
+    "description" : "a simple extension to convert currency",
+    "action":{
+        "default_icon": "transfert-dargent.png",
+        "default_popup" : "index.html"
+    }
+}
